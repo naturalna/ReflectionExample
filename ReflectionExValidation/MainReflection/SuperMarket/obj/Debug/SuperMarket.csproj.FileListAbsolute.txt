@@ -1,0 +1,9 @@
+E:\ReflectionExValidation\MainReflection\SuperMarket\obj\Debug\SuperMarket.csprojResolveAssemblyReference.cache
+E:\ReflectionExValidation\MainReflection\SuperMarket\bin\Debug\SuperMarket.dll
+E:\ReflectionExValidation\MainReflection\SuperMarket\bin\Debug\SuperMarket.pdb
+E:\ReflectionExValidation\MainReflection\SuperMarket\obj\Debug\SuperMarket.dll
+E:\ReflectionExValidation\MainReflection\SuperMarket\obj\Debug\SuperMarket.pdb
+C:\Users\Anna\Documents\GitHub\ReflectionExample\ReflectionExValidation\MainReflection\SuperMarket\bin\Debug\SuperMarket.dll
+C:\Users\Anna\Documents\GitHub\ReflectionExample\ReflectionExValidation\MainReflection\SuperMarket\bin\Debug\SuperMarket.pdb
+C:\Users\Anna\Documents\GitHub\ReflectionExample\ReflectionExValidation\MainReflection\SuperMarket\obj\Debug\SuperMarket.dll
+C:\Users\Anna\Documents\GitHub\ReflectionExample\ReflectionExValidation\MainReflection\SuperMarket\obj\Debug\SuperMarket.pdb

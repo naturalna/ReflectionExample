@@ -1,0 +1,16 @@
+E:\ReflectionExValidation\MainReflection\MainReflection\bin\Debug\MainReflection.exe.config
+E:\ReflectionExValidation\MainReflection\MainReflection\bin\Debug\MainReflection.exe
+E:\ReflectionExValidation\MainReflection\MainReflection\bin\Debug\MainReflection.pdb
+E:\ReflectionExValidation\MainReflection\MainReflection\bin\Debug\SuperMarket.dll
+E:\ReflectionExValidation\MainReflection\MainReflection\bin\Debug\SuperMarket.pdb
+E:\ReflectionExValidation\MainReflection\MainReflection\obj\Debug\MainReflection.csprojResolveAssemblyReference.cache
+E:\ReflectionExValidation\MainReflection\MainReflection\obj\Debug\MainReflection.exe
+E:\ReflectionExValidation\MainReflection\MainReflection\obj\Debug\MainReflection.pdb
+C:\Users\Anna\Documents\GitHub\ReflectionExample\ReflectionExValidation\MainReflection\MainReflection\bin\Debug\MainReflection.exe.config
+C:\Users\Anna\Documents\GitHub\ReflectionExample\ReflectionExValidation\MainReflection\MainReflection\bin\Debug\MainReflection.exe
+C:\Users\Anna\Documents\GitHub\ReflectionExample\ReflectionExValidation\MainReflection\MainReflection\bin\Debug\MainReflection.pdb
+C:\Users\Anna\Documents\GitHub\ReflectionExample\ReflectionExValidation\MainReflection\MainReflection\bin\Debug\SuperMarket.dll
+C:\Users\Anna\Documents\GitHub\ReflectionExample\ReflectionExValidation\MainReflection\MainReflection\bin\Debug\SuperMarket.pdb
+C:\Users\Anna\Documents\GitHub\ReflectionExample\ReflectionExValidation\MainReflection\MainReflection\obj\Debug\MainReflection.csprojResolveAssemblyReference.cache
+C:\Users\Anna\Documents\GitHub\ReflectionExample\ReflectionExValidation\MainReflection\MainReflection\obj\Debug\MainReflection.exe
+C:\Users\Anna\Documents\GitHub\ReflectionExample\ReflectionExValidation\MainReflection\MainReflection\obj\Debug\MainReflection.pdb

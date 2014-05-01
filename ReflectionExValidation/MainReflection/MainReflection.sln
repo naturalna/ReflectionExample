@@ -1,0 +1,32 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MainReflection", "MainReflection\MainReflection.csproj", "{460C7849-8591-4DEF-912E-B27073BA2F7D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SuperMarket", "SuperMarket\SuperMarket.csproj", "{7E299B98-9E45-4585-88E5-63DB1C6D2242}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ExternalCLWithValidationRules", "ExternalCLWithValidationRules\ExternalCLWithValidationRules.csproj", "{C2B938DB-4A48-4051-96BE-98BED399D938}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{460C7849-8591-4DEF-912E-B27073BA2F7D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{460C7849-8591-4DEF-912E-B27073BA2F7D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{460C7849-8591-4DEF-912E-B27073BA2F7D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{460C7849-8591-4DEF-912E-B27073BA2F7D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7E299B98-9E45-4585-88E5-63DB1C6D2242}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7E299B98-9E45-4585-88E5-63DB1C6D2242}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7E299B98-9E45-4585-88E5-63DB1C6D2242}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7E299B98-9E45-4585-88E5-63DB1C6D2242}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C2B938DB-4A48-4051-96BE-98BED399D938}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C2B938DB-4A48-4051-96BE-98BED399D938}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C2B938DB-4A48-4051-96BE-98BED399D938}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C2B938DB-4A48-4051-96BE-98BED399D938}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
